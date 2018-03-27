@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e4beef795da447f45aa7d6301059ebed
+timeCreated: 1509256977
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Grim Ghost 3D
+  fontNames:
+  - Grim Ghost 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

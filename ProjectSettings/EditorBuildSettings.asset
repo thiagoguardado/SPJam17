@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 68250c5215147c644bbf944ed7ea0563
+  - enabled: 1
+    path: Assets/Scenes/comoJogar.unity
+    guid: 826be5f5764c6ee4e891a5d56d1dee86
+  - enabled: 1
+    path: Assets/Scenes/selecionarFase.unity
+    guid: 54723df4393ec3649a13ea3a6155c644
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: e780aa00946294e489daaed9ac9f0437
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 15dcd6b489f61a64ebc84482084a6015
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: a2fd31f8a7c5c3d4b9030b81baa0c5ef
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: be4254b799dc6b744bf850358e134d8b
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: 4227ee2ad3e86d04a8bd367e01d90828
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: 2d27ea6d432c4cf4eb0b226e4b28d54e
